@@ -49,6 +49,6 @@ class PetTableViewController: UITableViewController {
     
     // MARK: - Properties
     
-    var pets = ["Sunny", "Cesare", "Lassy", "Fury"]
+    var pets = ["Labrador", "Yorkshire Terrier", "Unicorn", "Horse", "Hyena", "Otter"]
 
 }
